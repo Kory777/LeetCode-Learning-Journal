@@ -26,7 +26,7 @@ Example 3:
     Input: nums = [1]
     Output: 1
 
-####Solution
+#### Solution
 
 A very classic XOR question!!
 
@@ -80,7 +80,7 @@ class Solution {
 }
 ```
 
-\#\#\#\# Solution 2 -
+#### Solution 2 -
 
 #### Bitwise Operators : NOT, AND and XOR
 
